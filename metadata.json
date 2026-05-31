@@ -1,0 +1,10 @@
+{
+  "name": "Smart Hand Gesture Recognition System",
+  "description": "Real-time hand gesture tracking, custom training, and interactive gesture controls using MediaPipe Hands in the browser.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
